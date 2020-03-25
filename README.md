@@ -1,5 +1,7 @@
 # HelloWorld
 
+This is Makhmud's first ever Angular App. He is very happy that now he is familiar with Angular.js. More fun projects are coming! 🚀🚀🚀
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 ## Development server
